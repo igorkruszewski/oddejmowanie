@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oddejmowanie", "oddejmowanie\oddejmowanie.csproj", "{C13B91A1-8ABB-4103-BB39-CABCBB298C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C13B91A1-8ABB-4103-BB39-CABCBB298C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13B91A1-8ABB-4103-BB39-CABCBB298C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13B91A1-8ABB-4103-BB39-CABCBB298C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13B91A1-8ABB-4103-BB39-CABCBB298C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A8D05D7-7FAF-446B-8941-64DFC512D0ED}
+	EndGlobalSection
+EndGlobal
